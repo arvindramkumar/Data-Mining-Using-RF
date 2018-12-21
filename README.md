@@ -35,3 +35,7 @@ The Model Developed from 30% Split of Training set had a Train Accuracy of 99% a
 ## Recommendations
 
 There is an Hypothesis that Logisitic Regression might perform better in dealing with Binary response, so this method could also be employed to obtain a better result 
+
+## Tools Used 
+
+Python, R, Excel
